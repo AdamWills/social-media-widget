@@ -1,0 +1,54 @@
+/* FC Webicons by Fairhead Creative http://fairheadcreative.com */
+
+ul.social-media-sharing {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: none;
+}
+
+ul.social-media-sharing li {
+	display: inline;
+}
+
+ul.social-media-sharing li a:hover, ul.social-media-sharing li a:focus {
+	width: 35px;
+	height: 35px;
+	margin-left: -2px;
+}
+
+.fc-webicon { display: inline-block; background-size: 100%; width: 30px; height: 30px; text-indent: -999em; text-align: left; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; margin-bottom: 5px; }
+.fc-webicon:hover { margin: -1px 0 1px; }
+.fc-webicon.small { width: 20px; height: 20px; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; }
+.fc-webicon.large { width: 48px; height: 48px; -moz-border-radius: 6px; -webkit-border-radius: 6px; border-radius: 6px; }
+
+/* Facebook */
+.no-svg .fc-webicon.facebook { background: url("images/fc-webicon-facebook-m.png"); }
+.no-svg .fc-webicon.facebook.large { background: url("images/fc-webicon-facebook.png"); }
+.no-svg .fc-webicon.facebook.small { background: url("images/fc-webicon-facebook-s.png"); }
+.svg .fc-webicon.facebook { background: url("images/fc-webicon-facebook.svg"); }
+
+/* Google+ */
+.no-svg .fc-webicon.googleplus { background: url("images/fc-webicon-googleplus-m.png"); }
+.no-svg .fc-webicon.googleplus.large { background: url("images/fc-webicon-googleplus.png"); }
+.no-svg .fc-webicon.googleplus.small { background: url("images/fc-webicon-googleplus-s.png"); }
+.svg .fc-webicon.googleplus { background: url("images/fc-webicon-googleplus.svg"); }
+
+
+/* LinkedIn */
+.no-svg .fc-webicon.linkedin { background: url("images/fc-webicon-linkedin-m.png"); }
+.no-svg .fc-webicon.linkedin.large { background: url("images/fc-webicon-linkedin.png"); }
+.no-svg .fc-webicon.linkedin.small { background: url("images/fc-webicon-linkedin-s.png"); }
+.svg .fc-webicon.linkedin { background: url("images/fc-webicon-linkedin.svg"); }
+
+/* Mail */
+.no-svg .fc-webicon.mail { background: url("images/fc-webicon-mail-m.png"); }
+.no-svg .fc-webicon.mail.large { background: url("images/fc-webicon-mail.png"); }
+.no-svg .fc-webicon.mail.small { background: url("images/fc-webicon-mail-s.png"); }
+.svg .fc-webicon.mail { background: url("images/fc-webicon-mail.svg"); }
+
+/* Twitter */
+.no-svg .fc-webicon.twitter { background: url("images/fc-webicon-twitter-m.png"); }
+.no-svg .fc-webicon.twitter.large { background: url("images/fc-webicon-twitter.png"); }
+.no-svg .fc-webicon.twitter.small { background: url("images/fc-webicon-twitter-s.png"); }
+.svg .fc-webicon.twitter { background: url("images/fc-webicon-twitter.svg"); }
